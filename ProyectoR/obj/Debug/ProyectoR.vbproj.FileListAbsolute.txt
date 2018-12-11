@@ -1,0 +1,11 @@
+c:\users\mimp\documents\visual studio 2015\Projects\ProyectoR\ProyectoR\bin\Debug\ProyectoR.exe.config
+c:\users\mimp\documents\visual studio 2015\Projects\ProyectoR\ProyectoR\bin\Debug\ProyectoR.exe
+c:\users\mimp\documents\visual studio 2015\Projects\ProyectoR\ProyectoR\bin\Debug\ProyectoR.pdb
+c:\users\mimp\documents\visual studio 2015\Projects\ProyectoR\ProyectoR\bin\Debug\ProyectoR.xml
+c:\users\mimp\documents\visual studio 2015\Projects\ProyectoR\ProyectoR\obj\Debug\ProyectoR.vbprojResolveAssemblyReference.cache
+c:\users\mimp\documents\visual studio 2015\Projects\ProyectoR\ProyectoR\obj\Debug\ProyectoR.Form1.resources
+c:\users\mimp\documents\visual studio 2015\Projects\ProyectoR\ProyectoR\obj\Debug\ProyectoR.Resources.resources
+c:\users\mimp\documents\visual studio 2015\Projects\ProyectoR\ProyectoR\obj\Debug\ProyectoR.vbproj.GenerateResource.Cache
+c:\users\mimp\documents\visual studio 2015\Projects\ProyectoR\ProyectoR\obj\Debug\ProyectoR.exe
+c:\users\mimp\documents\visual studio 2015\Projects\ProyectoR\ProyectoR\obj\Debug\ProyectoR.xml
+c:\users\mimp\documents\visual studio 2015\Projects\ProyectoR\ProyectoR\obj\Debug\ProyectoR.pdb
